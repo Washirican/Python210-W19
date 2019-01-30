@@ -28,4 +28,4 @@ def cigar_party(cigars, is_weekend):
 
 
 # -- Presentation (Input/Output) --#
-print(cigar_party(50, False) )
+print(cigar_party(50, False))
